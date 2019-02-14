@@ -3,9 +3,9 @@ group: travis_latest
 sudo: false
 
 # whitelist
-branches:
-    only:
-        - master
+#branches:
+#    only:
+#        - master
 
 env:
   global:
